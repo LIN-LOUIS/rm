@@ -73,7 +73,7 @@ int main() {
     }
 
     // 设置真实世界坐标（单位 cm）
-    float width = 12.5f;
+    float width = 13.5f;
     float height = 5.5f;
     std::vector<cv::Point3f> object_points = {// 真实世界坐标
         {0, 0, 0},
